@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>各种教程</title>
+<style type="text/css">
+	a:link{
+		text-decoration: none;
+	}
+	#d{
+		font-size:20px;
+	}
+</style>
+</head>
+<body>
+<div id="d">
+	<div><h1>各种图文教程</h1></div>
+	<div>
+		<p><a href="http://www.jb51.net/article/106244.htm">1.Windows10 64位安装MySQL5.6.35的图文教程</a></p>
+		<p><a href="https://jingyan.baidu.com/article/b24f6c82c989da86bfe5dab2.html">2.win7下如何安装JDK</a></p>
+	</div>
+</div>
+</body>
+</html>
